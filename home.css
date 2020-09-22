@@ -1,0 +1,47 @@
+body{
+    background: url(./assets/oriental-tiles/oriental-tiles.png) no-repeat center center fixed;
+    background-repeat: repeat;
+    font-family: 'Kumbh Sans', sans-serif;
+}
+
+#hero h1{
+    font-weight: bold;
+}
+
+#hero{
+    text-align: center;
+    background-color: teal;
+    color: white;
+    font-family: 'Kumbh Sans', sans-serif;
+}
+
+.container{
+    background-color: teal;
+    color: white;
+    font-family: 'Kumbh Sans', sans-serif;
+    padding: 10px;
+}
+
+h1{
+    text-align: center;
+    padding: 15px;
+}
+
+.card{
+    color: black;
+    font-family: 'Kumbh Sans', sans-serif;
+    padding: 15px;
+    margin: 10px;
+}
+
+.card-title{
+    padding: 10px;
+}
+
+img {
+    width: 500px;
+    height: 300px;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
